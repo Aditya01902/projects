@@ -5,3 +5,7 @@ Repository: https://github.com/isnt-it-me/Autonomous-Fire-Detection-and-Suppress
 ## PivotPoint
 PivotPoint is a smart knee-ankle support system that helps prevent ACL injuries by detecting dangerous leg twists in real time. It combines a strong support brace with motion sensors and vibration alerts to warn athletes before serious injury happens.
 Link to the repository of the project: https://github.com/iris7-git/ProDex-Intras
+
+## LoRa-based SOS communication system
+A portable emergency communication prototype that uses ESP32, LoRa (SX1278), and GPS to transmit SOS alerts with location data over long distances and display them through a Wi-Fi-enabled web interface.
+[Link](https://github.com/asmitak07/LoRa-based-SOS-communication-system-group-4-)
